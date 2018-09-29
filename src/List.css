@@ -1,0 +1,10 @@
+.listTable {
+    color: black;
+    border: solid 1px;
+    border-color: #808080;
+    margin: auto;
+    padding: 5px 10px;
+    width: 720px;
+    text-align: left;
+    color: #4f4f4f;
+}
